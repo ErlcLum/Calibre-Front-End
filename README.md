@@ -20,7 +20,12 @@ Custom front-end javascript media player. Includes features such as a playlist, 
  2. Add an item to your playlist
  3. Play the item.
  4. It's like YouTube with a built in media library and search.
- 5. [Demo Video](https://youtu.be/ebsAqmpIFE4)
+
+  ## Demo Video
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=ebsAqmpIFE4
+" target="_blank"><img src="http://img.youtube.com/vi/ebsAqmpIFE4/0.jpg" 
+alt="Calibre Media Player Demo" width="240" height="180" border="10" /></a>
+ 
  
  ## Tech and Framework info
  This project is built with Javascript and Ruby on Rails 5 API & PostgresSQL
