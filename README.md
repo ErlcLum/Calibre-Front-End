@@ -20,6 +20,7 @@ Custom front-end javascript media player. Includes features such as a playlist, 
  2. Add an item to your playlist
  3. Play the item.
  4. It's like YouTube with a built in media library and search.
+ 5. [Demo Video](https://youtu.be/ebsAqmpIFE4)
  
  ## Tech and Framework info
  This project is built with Javascript and Ruby on Rails 5 API & PostgresSQL
