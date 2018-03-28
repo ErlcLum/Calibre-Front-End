@@ -1,8 +1,9 @@
+# Calibre Media Player
 Custom front-end javascript media player. Includes features such as a playlist, a media library, likes, and comments.
 
-# Installation
+## Installation
 
-## Backend Installation
+### Backend Installation
 
 Clone [Backend repository](https://github.com/eal6gf/calibre)
 
@@ -14,12 +15,12 @@ Start Postgres and database
  ```
  Open index.html
  
- # Usage
+ ## Usage
  1. Log in to the application
  2. Add an item to your playlist
  3. Play the item.
  4. It's like YouTube with a built in media library and search.
  
- # Tech and Framework info
+ ## Tech and Framework info
  This project is built with Javascript and Ruby on Rails 5 API & PostgresSQL
  
